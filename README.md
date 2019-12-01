@@ -8,7 +8,7 @@ An alternative solution may be a new nixie tube driver.
 * Easy to use with Arduino or Raspberry Pi etc. (only 3 control lines)
 * The drivers can be connected in series
 
-## Libraries
+## Libraries for use in your own projects
 * Eagle Library
 * Altium Library
 * KiCad Library
