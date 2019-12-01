@@ -7,7 +7,7 @@ An alternative solution may be a new nixie tube driver.
 * Compatible with all 5V / 3.3V designs
 * Easy to use with Arduino or Raspberry Pi etc. (only 3 control lines)
 * The drivers can be connected in series.
-Open Arduino example code.
+**Open Arduino example code.**
 
 ## Libraries for use in your own projects
 * Eagle Library
@@ -15,7 +15,7 @@ Open Arduino example code.
 * KiCad Library
 * EasyEDA Library
 
-<a href="https://github.com/marcinsaj/Nixie-Tube-Driver/raw/master/library/Library-Eagle-Altium-KiCad-EasyEDA.zip" download="Library - Eagle Altium KiCad EasyEDA ">Download all libraries</a>.
+**<a href="https://github.com/marcinsaj/Nixie-Tube-Driver/raw/master/library/Library-Eagle-Altium-KiCad-EasyEDA.zip" download="Library - Eagle Altium KiCad EasyEDA ">Download all libraries</a>.**
 
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/extras/nixie-tube-driver.jpg"></p>
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/extras/nixie-tube-driver-diagram.jpg"></p>
