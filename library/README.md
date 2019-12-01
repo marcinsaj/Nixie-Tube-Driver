@@ -1,9 +1,9 @@
-⋅⋅*Eagle Library
+⋅⋅* Eagle Library
 
-⋅⋅*Altium Library
+⋅⋅* Altium Library
 
-⋅⋅*KiCad Library
+⋅⋅* KiCad Library
 
-⋅⋅*EasyEDA Library
+⋅⋅* EasyEDA Library
 
 
