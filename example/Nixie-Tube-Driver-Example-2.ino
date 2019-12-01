@@ -6,9 +6,9 @@
 // This example demonstrates how to control up to 6 nixie tubes.
 // The control is carried out using up to six Nixie Tube Drivers in serial connection.
 
-#define DIN_PIN   7          // HCT595 shift register serial data pin             
-#define CLK_PIN   6          // Clock pin
-#define EN_PIN    5          // Latch pin
+#define DIN_PIN   7          // Nixie driver (shift register) serial data input pin             
+#define CLK_PIN   6          // Nixie driver clock input pin
+#define EN_PIN    5          // Nixie driver enable input pin
 
 
 // Function prototype with optional parameters
@@ -16,13 +16,13 @@ void NixieDisplay(byte digit1 = 10, byte digit2 = 10, byte digit3 = 10, byte dig
 
 void setup() 
 {  
-    pinMode(DIN_PIN, OUTPUT);       // Nixie driver serial data input 
+    pinMode(DIN_PIN, OUTPUT); 
     digitalWrite(DIN_PIN, LOW);    
     
-    pinMode(CLK_PIN, OUTPUT);       // Nixie driver data shift register CLK input 
+    pinMode(CLK_PIN, OUTPUT);
     digitalWrite(CLK_PIN, LOW);         
   
-    pinMode(EN_PIN, OUTPUT);        // Nixie driver enable input
+    pinMode(EN_PIN, OUTPUT);
     digitalWrite(EN_PIN, LOW);
 }
 
