@@ -31,7 +31,6 @@ void loop ()
   }
 }
 
-
 void NixieDisplay(byte digit)
 {
   // Ground EN pin and hold low for as long as you are transmitting
