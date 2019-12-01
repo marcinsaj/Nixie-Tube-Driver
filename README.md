@@ -10,7 +10,9 @@ An alternative solution may be a new nixie tube driver.
 
 **<a href="https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/example/Nixie-Tube-Driver.ino">Open Arduino example code</a>**
 
-
+<p align="center"><img src="https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/extras/nixie-tube-driver.jpg"></p>
+<p align="center"><img src="https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/extras/nixie-tube-driver-diagram.jpg"></p>
+<p align="center"><img src="https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/extras/nixie-tube-driver-schematic.png"></p>
 
 ## Libraries for use in your own projects
 * Eagle Library
@@ -20,8 +22,7 @@ An alternative solution may be a new nixie tube driver.
 
 **<a href="https://github.com/marcinsaj/Nixie-Tube-Driver/raw/master/library/Library-Eagle-Altium-KiCad-EasyEDA.zip" download="Library - Eagle Altium KiCad EasyEDA ">Download all libraries</a>**
 
-<p align="center"><img src="https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/extras/nixie-tube-driver.jpg"></p>
-<p align="center"><img src="https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/extras/nixie-tube-driver-diagram.jpg"></p>
-<p align="center"><img src="https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/extras/nixie-tube-driver-schematic.png"></p>
+<p align="center"><img src="https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/extras/nixie-tube-driver-library.jpg"></p>
+
 
 **<a href="https://github.com/marcinsaj/Nixie-Tube-Driver/raw/master/datasheet/Nixie-Tube-Driver-Schematic.pdf">Download Nixie Tube Driver Schematic</a>**
