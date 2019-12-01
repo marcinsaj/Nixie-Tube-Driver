@@ -16,8 +16,6 @@ void NixieDisplay(byte digit1 = 10, byte digit2 = 10, byte digit3 = 10, byte dig
 
 void setup() 
 {  
-    Serial.begin(9600);
-    
     pinMode(DIN_PIN, OUTPUT);       // Nixie driver serial data input 
     digitalWrite(DIN_PIN, LOW);    
     
@@ -64,16 +62,16 @@ void StartShiftOutData()
 
 void ShiftOutData(byte digit)
 {
-  // Send bit array to the nixie drivers 
+  // Send data to the nixie drivers 
   for (int i = 15; i >= 0; i--)
   {
-    // Set HIGH only the bit that corresponds to the current nixie digit
+    // Set high only the bit that corresponds to the current nixie digit
     if(i == digit) digitalWrite(DIN_PIN, 1); 
     else digitalWrite(DIN_PIN, 0);
     
     // Register shifts bits on upstroke of CLK pin 
     digitalWrite(CLK_PIN, 1);
-    //zero the data pin after shift to prevent bleed through
+    // Set low the data pin after shift to prevent bleed through
     digitalWrite(CLK_PIN, 0);  
   }   
 }
