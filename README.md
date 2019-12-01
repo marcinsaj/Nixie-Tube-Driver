@@ -13,7 +13,7 @@ An alternative solution may be a new nixie tube driver.
 * Altium Library
 * KiCad Library
 * EasyEDA Library
-<a href="https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/library/Library-Eagle-Altium-KiCad-EasyEDA.zip" download="Library - Eagle Altium KiCad EasyEDA ">Download all libraries</a>.
+<a href="https://github.com/marcinsaj/Nixie-Tube-Driver/raw/master/library/Library-Eagle-Altium-KiCad-EasyEDA.zip" download="Library - Eagle Altium KiCad EasyEDA ">Download all libraries</a>.
 
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/extras/nixie-tube-driver.jpg"></p>
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/extras/nixie-tube-driver-diagram.jpg"></p>
