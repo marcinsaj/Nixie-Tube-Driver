@@ -1,4 +1,4 @@
-⋅⋅* Eagle Library
+* Eagle Library
 
 ⋅⋅* Altium Library
 
