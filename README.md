@@ -6,13 +6,15 @@ An alternative solution may be a new nixie tube driver.
 * 300V off-state maximum output voltage
 * Compatible with all 5V / 3.3V designs
 * Easy to use with Arduino or Raspberry Pi etc. (only 3 control lines)
-* The drivers can be connected in series
+* The drivers can be connected in series.
+Open Arduino example code.
 
 ## Libraries for use in your own projects
 * Eagle Library
 * Altium Library
 * KiCad Library
 * EasyEDA Library
+
 <a href="https://github.com/marcinsaj/Nixie-Tube-Driver/raw/master/library/Library-Eagle-Altium-KiCad-EasyEDA.zip" download="Library - Eagle Altium KiCad EasyEDA ">Download all libraries</a>.
 
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/extras/nixie-tube-driver.jpg"></p>
