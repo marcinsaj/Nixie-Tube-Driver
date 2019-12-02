@@ -10,6 +10,7 @@ An alternative solution may be a new nixie tube driver.
 
 **<a href="https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/example/Nixie-Tube-Driver.ino">Open Arduino example code</a>**
 
+<p align="center"><img src="https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/extras/nixie-tube-driver-cover.jpg"></p>
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/extras/nixie-tube-driver.jpg"></p>
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/extras/nixie-tube-driver-diagram.jpg"></p>
 
