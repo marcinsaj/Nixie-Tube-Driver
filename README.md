@@ -1,5 +1,5 @@
 # New Nixie Tube Driver
-If you are a maker or nixie enthusiast, you have probably used or had contact with a nixie tube drivers e.g. 155ID1, SN74141. Unfortunately, these drivers have their technical limitations for modern projects. Sometimes VFD or AC electroluminescent display drivers (such as HV5812 or HV5530) are used to control nixie tubes but they are mainly suitable for dedicated applications and the lack of flexibility in control and power supply or even in assembly (smd) effectively discourages experimenting with new nixie tube designs.
+If you are a maker or nixie enthusiast, you have probably used or had contact with a nixie tube drivers e.g. 155ID1, 74141. Unfortunately, these drivers have their technical limitations for modern projects. Sometimes VFD or AC electroluminescent display drivers (such as HV5812 or HV5530) are used to control nixie tubes but they are mainly suitable for dedicated applications and the lack of flexibility in control and power supply or even in assembly (smd) effectively discourages experimenting with new nixie tube designs.
 
 An alternative solution may be a new nixie tube driver.
 * 10 outputs for connecting the nixie tube cathodes (K0-K9)
