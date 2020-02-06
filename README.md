@@ -8,7 +8,7 @@ An alternative solution may be a new nixie tube driver.
 * Easy to use with Arduino or Raspberry Pi etc. (only 3 control lines)
 * The drivers can be connected in series
 
-**<a href="https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/example/Nixie-Tube-Driver.ino">Open Arduino example code</a>**
+**<a href="https://github.com/marcinsaj/Nixie-Tube-Driver/tree/master/example">Open Arduino example code</a>**
 
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/extras/nixie-tube-driver-cover.jpg"></p>
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/extras/nixie-tube-driver.jpg"></p>
