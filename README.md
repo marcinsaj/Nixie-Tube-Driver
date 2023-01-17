@@ -10,12 +10,12 @@ An alternative solution may be a new nixie tube driver.
 
 ## Examples - Code & Diagrams
 - Code
--- [How to control 1 nixie tube - Arduino code](https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/example/Nixie-Tube-Driver-Example-1.ino)
--- [How to control 1-6 nixie tubes - Arduino code](https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/example/Nixie-Tube-Driver-Example-2.ino)
--- How to control 4 nixie tubes - Raspberry Pi Pico W -> to do
+  - [How to control 1 nixie tube - Arduino code](https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/example/Nixie-Tube-Driver-Example-1.ino)
+  - [How to control 1-6 nixie tubes - Arduino code](https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/example/Nixie-Tube-Driver-Example-2.ino)
+  - How to control 4 nixie tubes - Raspberry Pi Pico W -> to do
 - Diagrams
--- [How to connect 4 nixie tubes with Arduino Nano](https://github.com/marcinsaj/Nixie-Tube-Driver/raw/master/datasheet/How-To-Control-4-Nixie-Tubes-Arduino-Nano.pdf)
--- [How to connect 4 nixie tubes with Raspberry Pi Pico W](https://github.com/marcinsaj/Nixie-Tube-Driver/raw/master/datasheet/How-To-Control-4-Nixie-Tubes-Raspberry-Pi-Pico-W.pdf) + [Pinout](https://github.com/marcinsaj/Nixie-Tube-Driver/raw/master/datasheet/Raspberry-Pi-Pico-W-Pinout.pdf)
+  - [How to connect 4 nixie tubes with Arduino Nano](https://github.com/marcinsaj/Nixie-Tube-Driver/raw/master/datasheet/How-To-Control-4-Nixie-Tubes-Arduino-Nano.pdf)
+  - [How to connect 4 nixie tubes with Raspberry Pi Pico W](https://github.com/marcinsaj/Nixie-Tube-Driver/raw/master/datasheet/How-To-Control-4-Nixie-Tubes-Raspberry-Pi-Pico-W.pdf) + [Pinout](https://github.com/marcinsaj/Nixie-Tube-Driver/raw/master/datasheet/Raspberry-Pi-Pico-W-Pinout.pdf)
 
 
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Tube-Driver/blob/master/extras/nixie-tube-driver-cover.jpg"></p>
